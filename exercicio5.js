@@ -23,7 +23,7 @@ else if ((num2 <= num1) && (num2 <= num3)) {
 }
 else if ((num3 <= num1) && (num3 <= num2)) {
     menor = num3
-}
+} 
 
 alert(`O numero ${maior} é maior de todos!
         E o ${menor} é o menor de todos!`);
